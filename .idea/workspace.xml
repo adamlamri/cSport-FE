@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae81d358-00c7-4353-abd2-43d669fe657e" name="Default" comment="" />
+    <list id="824a08fa-08bb-4801-929d-161db9338640" name="Show more information in user profile - frontend" comment="Show more information in user profile - frontend" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-817058904">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="256060407">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="38" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LICENSE" value="1" />
+          <entry key="editorconfig" value="2" />
+          <entry key="env" value="1" />
+          <entry key="example" value="2" />
+          <entry key="html" value="1" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="18" />
+          <entry key="json" value="11" />
+          <entry key="md" value="1" />
+          <entry key="png" value="16" />
+          <entry key="prettierrc" value="2" />
+          <entry key="scss" value="13" />
+          <entry key="svg" value="2" />
+          <entry key="ts" value="15" />
+          <entry key="tsx" value="56" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key=".env file" value="2" />
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="17" />
+          <entry key="JSON" value="9" />
+          <entry key="JavaScript" value="18" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="SCSS" value="13" />
+          <entry key="SVG" value="2" />
+          <entry key="TypeScript" value="15" />
+          <entry key="TypeScript JSX" value="56" />
+          <entry key="tsconfig" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="env" value="12" />
+          <entry key="html" value="30" />
+          <entry key="json" value="6" />
+          <entry key="scss" value="161" />
+          <entry key="tsx" value="2829" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="30" />
+          <entry key="JSON" value="6" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="SCSS" value="161" />
+          <entry key="TypeScript JSX" value="2829" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TsLintLanguageService" value="27" />
+          <entry key="TypeScriptServerServiceImpl" value="29" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/activity/card-activity.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1258">
+              <caret line="165" selection-start-line="165" selection-end-line="165" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/activity/timer/Timer.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+                <element signature="n#!!block;n#constructor#0;n#Timer#0" expanded="true" />
+                <element signature="e#4043#4482#0" expanded="true" />
+                <element signature="e#4562#4703#0" expanded="true" />
+                <element signature="e#4745#4991#0" expanded="true" />
+                <element signature="e#5029#5382#0" expanded="true" />
+                <element signature="e#5439#5710#0" expanded="true" />
+                <element signature="e#5762#5897#0" expanded="true" />
+                <element signature="e#5952#6345#0" expanded="true" />
+                <element signature="e#6385#6499#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/TeamActivities/TeamInformation/TeamInformation.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="165" column="73" selection-start-line="165" selection-start-column="73" selection-end-line="165" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/UserProfile/UserProfile.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="79" column="48" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Profile/Profile.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="649">
+              <caret line="61" column="14" lean-forward="true" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/theme/images/runningTeam.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/theme/images/save-run.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/theme/images/run.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/theme/images/cycling.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/theme/images/climbing.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>unsu</find>
+      <find>AppBar</find>
+      <find>/logo.png</find>
+      <find>logo mgm Sport</find>
+      <find>Dr</find>
+      <find>Stomp</find>
+      <find>stompClient.debug</find>
+      <find>debug</find>
+      <find>tsl</find>
+      <find>mgm</find>
+      <find>.chart</find>
+      <find>margin-lef</find>
+      <find>type</find>
+      <find>Line</find>
+      <find>console</find>
+      <find>hr</find>
+      <find>adding su</find>
+      <find>adding sus</find>
+      <find>adding s</find>
+      <find>success</find>
+      <find>TeaminfoBo</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="review/vinh_thanh_lu/18217" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/data/login/reducer.js" />
+        <option value="$PROJECT_DIR$/src/data/login/action.ts" />
+        <option value="$PROJECT_DIR$/src/components/facebookLogin/FacebookLogin.tsx" />
+        <option value="$PROJECT_DIR$/src/data/login/reducer.ts" />
+        <option value="$PROJECT_DIR$/src/containers/layouts/appbar/AppBar.tsx" />
+        <option value="$PROJECT_DIR$/src/data/index.ts" />
+        <option value="$PROJECT_DIR$/src/pages/Activity/index.tsx" />
+        <option value="$PROJECT_DIR$/src/data/userProfile/constants.ts" />
+        <option value="$PROJECT_DIR$/src/data/userProfile/thunk.ts" />
+        <option value="$PROJECT_DIR$/src/data/utils.ts" />
+        <option value="$PROJECT_DIR$/src/data/userProfile/types.ts" />
+        <option value="$PROJECT_DIR$/src/data/userProfile/reducers.ts" />
+        <option value="$PROJECT_DIR$/src/data/reducerHelper.ts" />
+        <option value="$PROJECT_DIR$/src/data/types.ts" />
+        <option value="$PROJECT_DIR$/src/data/userProfile/actions.ts" />
+        <option value="$PROJECT_DIR$/src/components/socialLogin/FacebookLogin.tsx" />
+        <option value="$PROJECT_DIR$/src/router.tsx" />
+        <option value="$PROJECT_DIR$/config/webpack.config.prod.js" />
+        <option value="$PROJECT_DIR$/src/data/auth/actionTypes.ts" />
+        <option value="$PROJECT_DIR$/src/containers/Notifications/Notifications.tsx" />
+        <option value="$PROJECT_DIR$/src/containers/competition/MemberShortInfo.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/competition/CompetitionCard.tsx" />
+        <option value="$PROJECT_DIR$/src/containers/activity/timer/timerStyle.css" />
+        <option value="$PROJECT_DIR$/src/pages/login/LoginForm.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/competition/ConfirmDialog.tsx" />
+        <option value="$PROJECT_DIR$/.env.example" />
+        <option value="$PROJECT_DIR$/src/containers/Chat/Forum.tsx" />
+        <option value="$PROJECT_DIR$/config/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/src/pages/login/SimpleLoginForm.tsx" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/pages/user/UserProfile.tsx" />
+        <option value="$PROJECT_DIR$/src/components/userShortInfo/UserShortInfo.scss" />
+        <option value="$PROJECT_DIR$/src/components/userShortInfo/UserShortInfo.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/searchUser/index.tsx" />
+        <option value="$PROJECT_DIR$/src/containers/TeamActivities/TeamInformation/QRDialog.tsx" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/containers/UserProfile/UserProfile.tsx" />
+        <option value="$PROJECT_DIR$/src/containers/layouts/appbar/DrawerAppBar.tsx" />
+        <option value="$PROJECT_DIR$/src/components/Profile/TimeInterval.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/team/JoinedTeamCard.tsx" />
+        <option value="$PROJECT_DIR$/src/containers/TeamActivities/AddUserToTeam/SearchUserInTeam.tsx" />
+        <option value="$PROJECT_DIR$/src/containers/UserProfile/EditProfileForm.tsx" />
+        <option value="$PROJECT_DIR$/src/containers/layouts/appbar/DrawAppBarStyle.scss" />
+        <option value="$PROJECT_DIR$/src/components/Profile/Statistic.scss" />
+        <option value="$PROJECT_DIR$/src/components/Profile/Statistic.tsx" />
+        <option value="$PROJECT_DIR$/src/containers/activity/card-activity.tsx" />
+        <option value="$PROJECT_DIR$/src/components/Profile/Profile.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="860" />
+    <option name="y" value="-1440" />
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sportstracker-fe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sportstracker-fe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sportstracker-fe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sportstracker-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sportstracker-fe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sportstracker-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sportstracker-fe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sportstracker-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sportstracker-fe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sportstracker-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="activity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sportstracker-fe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sportstracker-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="activity" type="462c0819:PsiDirectoryNode" />
+              <item name="timer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sportstracker-fe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sportstracker-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="UserProfile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sportstracker-fe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sportstracker-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sportstracker-fe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sportstracker-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sportstracker-fe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sportstracker-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Simple&#9;null&#9;null&#10;Login&#9;null&#9;null&#10;img&#9;null&#9;null&#10;Detail&#9;null&#9;null&#10;QR&#9;null&#9;null&#10;Qrcode&#9;FILE&#9;file:///Users/hthnguyen/Documents/BKFinalProject/sportstracker-fe/node_modules/qrcode.react&#10;drawerH&#9;null&#9;null&#10;24&#9;FILE&#9;file:///Users/hthnguyen/Documents/BKFinalProject/sportstracker-fe/.cache-loader/1eb0e4c9b245ce3f256d5ed435f9625e.json&#10;Drawer&#9;FILE&#9;file:///Users/hthnguyen/Documents/BKFinalProject/sportstracker-fe/src/containers/layouts/appbar/DrawerAppBar.tsx&#10;padding: &#9;null&#9;null&#10;padding&#9;null&#9;null&#10;padding &#9;null&#9;null&#10;Qr&#9;FILE&#9;file:///Users/hthnguyen/Documents/BKFinalProject/sportstracker-fe/src/containers/TeamActivities/TeamInformation/QRDialog.tsx&#10;app&#9;FILE&#9;file:///Users/hthnguyen/Documents/BKFinalProject/sportstracker-fe/src/containers/layouts/appbar/DrawerAppBar.tsx&#10;qr&#9;FILE&#9;file:///Users/hthnguyen/Documents/BKFinalProject/sportstracker-fe/src/containers/TeamActivities/TeamInformation/QRDialog.tsx&#10;App&#9;FILE&#9;file:///Users/spectre/Desktop/MGM-INTERSHIP/mgmsports-fe/src/containers/layouts/appbar/DrawerAppBar.tsx&#10;header&#9;null&#9;null&#10;Google&#9;FILE&#9;file:///Users/spectre/Desktop/MGM-INTERSHIP/mgmsports-fe/src/components/socialLogin/GoogleLogin.tsx" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544000479886" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="$PROJECT_DIR$/node_modules/tslint" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="typescript-compiler-editor-notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/theme/images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="mgmsports-fe" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae81d358-00c7-4353-abd2-43d669fe657e" name="Default" comment="" />
+      <changelist id="824a08fa-08bb-4801-929d-161db9338640" name="Show more information in user profile - frontend" comment="" />
+      <created>1529308544216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529308544216</updated>
+      <workItem from="1529308547508" duration="772000" />
+      <workItem from="1529376809280" duration="4731000" />
+      <workItem from="1529408792755" duration="3000" />
+      <workItem from="1529550403869" duration="667000" />
+      <workItem from="1529561259801" duration="1485000" />
+      <workItem from="1529596100858" duration="36000" />
+      <workItem from="1529603160249" duration="1322000" />
+      <workItem from="1529633961443" duration="254000" />
+      <workItem from="1529648876931" duration="30000" />
+      <workItem from="1529911234961" duration="5237000" />
+      <workItem from="1529939178306" duration="798000" />
+      <workItem from="1529981740357" duration="953000" />
+      <workItem from="1529987265950" duration="7030000" />
+      <workItem from="1530068172493" duration="4112000" />
+      <workItem from="1530088662303" duration="962000" />
+      <workItem from="1530150411753" duration="8673000" />
+      <workItem from="1530244652729" duration="5484000" />
+      <workItem from="1530963876809" duration="87000" />
+      <workItem from="1531051979521" duration="120000" />
+      <workItem from="1531061342370" duration="252000" />
+      <workItem from="1531100589273" duration="80000" />
+      <workItem from="1531214320183" duration="84000" />
+      <workItem from="1531389557274" duration="66000" />
+      <workItem from="1531402026197" duration="291000" />
+      <workItem from="1531879879011" duration="634000" />
+      <workItem from="1531883209670" duration="75000" />
+      <workItem from="1531927162278" duration="20000" />
+      <workItem from="1531980991706" duration="525000" />
+      <workItem from="1531995105324" duration="35000" />
+      <workItem from="1531995822340" duration="43000" />
+      <workItem from="1532001804845" duration="61000" />
+      <workItem from="1532009105208" duration="3000" />
+      <workItem from="1532010560592" duration="154000" />
+      <workItem from="1532320385631" duration="1132000" />
+      <workItem from="1532331226801" duration="43000" />
+      <workItem from="1532331372678" duration="905000" />
+      <workItem from="1532333309294" duration="159000" />
+      <workItem from="1532333940014" duration="184000" />
+      <workItem from="1532334893925" duration="1091000" />
+      <workItem from="1532403037566" duration="1368000" />
+      <workItem from="1532406557531" duration="3700000" />
+      <workItem from="1532436628198" duration="118000" />
+      <workItem from="1532438660028" duration="103000" />
+      <workItem from="1532491670484" duration="2360000" />
+      <workItem from="1532529156645" duration="2000" />
+      <workItem from="1532574676469" duration="3366000" />
+      <workItem from="1532580918994" duration="443000" />
+      <workItem from="1532589479153" duration="2212000" />
+      <workItem from="1532597247433" duration="813000" />
+      <workItem from="1532604257472" duration="1395000" />
+      <workItem from="1532610758615" duration="1392000" />
+      <workItem from="1532655710868" duration="4842000" />
+      <workItem from="1532677203626" duration="4595000" />
+      <workItem from="1532684823930" duration="1183000" />
+      <workItem from="1533961751644" duration="5078000" />
+      <workItem from="1533978258127" duration="1177000" />
+      <workItem from="1533979599137" duration="7000" />
+      <workItem from="1533979742298" duration="709000" />
+      <workItem from="1534158683866" duration="142000" />
+      <workItem from="1534613670227" duration="75000" />
+      <workItem from="1535981425149" duration="1828000" />
+      <workItem from="1536316905898" duration="1830000" />
+      <workItem from="1537109728412" duration="6000" />
+      <workItem from="1537164607153" duration="197000" />
+      <workItem from="1539521170524" duration="2398000" />
+      <workItem from="1539779008373" duration="1937000" />
+      <workItem from="1539937657565" duration="617000" />
+      <workItem from="1540011057401" duration="189000" />
+      <workItem from="1540094313264" duration="148000" />
+      <workItem from="1540171992295" duration="1185000" />
+      <workItem from="1540471578682" duration="189000" />
+      <workItem from="1541053292458" duration="67000" />
+      <workItem from="1541212152235" duration="222000" />
+      <workItem from="1541212948977" duration="3162000" />
+      <workItem from="1541217634217" duration="2073000" />
+      <workItem from="1541315210003" duration="2396000" />
+      <workItem from="1541383921592" duration="106000" />
+      <workItem from="1541384152928" duration="254000" />
+      <workItem from="1541428000308" duration="326000" />
+      <workItem from="1541833287825" duration="299000" />
+      <workItem from="1541833852068" duration="307000" />
+      <workItem from="1541834186204" duration="6614000" />
+      <workItem from="1541847226552" duration="329000" />
+      <workItem from="1541847579185" duration="6301000" />
+      <workItem from="1541987618401" duration="260000" />
+      <workItem from="1542351699632" duration="5638000" />
+      <workItem from="1542681729330" duration="36000" />
+      <workItem from="1542800619001" duration="8330000" />
+      <workItem from="1542897709769" duration="12383000" />
+      <workItem from="1543044442667" duration="576000" />
+      <workItem from="1543117005470" duration="1366000" />
+      <workItem from="1543245497166" duration="776000" />
+      <workItem from="1543284829290" duration="322000" />
+      <workItem from="1543301994058" duration="1167000" />
+      <workItem from="1543371912731" duration="214000" />
+      <workItem from="1543478007315" duration="372000" />
+      <workItem from="1543489162778" duration="1579000" />
+      <workItem from="1543545819165" duration="6930000" />
+      <workItem from="1543567429800" duration="590000" />
+      <workItem from="1543729897570" duration="1163000" />
+      <workItem from="1543804782683" duration="5000" />
+      <workItem from="1543910332433" duration="780000" />
+      <workItem from="1543929398545" duration="1667000" />
+      <workItem from="1544071849853" duration="334000" />
+    </task>
+    <task id="LOCAL-00001" summary="Show more information in user profile - frontend&#10;&#10;Jira: MGMSPORTS-55">
+      <created>1530169264738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530169264738</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Show more information in user profile - frontend&#10;&#10;Jira: MGMSPORTS-55">
+      <created>1530169429890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530169429890</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Show more information in user profile - frontend&#10;&#10;Jira: MGMSPORTS-55">
+      <created>1530169468147</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1530169468147</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Show more information in user profile - frontend&#10;&#10;Change-Id: Idbf876634c121a0908ecf5d762bf44296971c2ba&#10;Jira: MGMSPORTS-55">
+      <created>1530170914515</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1530170914515</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Show more information in user profile - frontend&#10;&#10;Change-Id: Idbf876634c121a0908ecf5d762bf44296971c2ba&#10;Jira: MGMSPORTS-55">
+      <created>1530175700707</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1530175700707</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Show more information in user profile - frontend&#10;&#10;Change-Id: Idbf876634c121a0908ecf5d762bf44296971c2ba&#10;Jira: MGMSPORTS-55">
+      <created>1530187097096</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1530187097096</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change env">
+      <created>1532596144675</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1532596144675</updated>
+    </task>
+    <task id="LOCAL-00008" summary="change env&#10;&#10;Change-Id: I2dad186d2ff665fc1c98fbb6fb300835baaf4b2f">
+      <created>1532596223223</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1532596223223</updated>
+    </task>
+    <task id="LOCAL-00009" summary="change env again">
+      <created>1532604348807</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1532604348807</updated>
+    </task>
+    <task id="LOCAL-00010" summary="change domain to ip">
+      <created>1532660185265</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1532660185265</updated>
+    </task>
+    <task id="LOCAL-00011" summary="IOS Detector for duration&#10;&#10;Change-Id: Icc44255350e39cd75193ce441729c51297b5e91e">
+      <created>1532678234188</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1532678234188</updated>
+    </task>
+    <task id="LOCAL-00012" summary="IOS Detector for duration&#10;&#10;Change-Id: Icc44255350e39cd75193ce441729c51297b5e91e">
+      <created>1532681873848</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1532681873848</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="161141000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="860" y="-1440" width="2560" height="1440" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13860206" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32919708" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32914573" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4859585" visible="true" weight="0.20145985" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.51404154" side_tool="true" weight="0.53163266" />
+      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Gerrit" order="10" sideWeight="0.4847375" weight="0.41090146" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.495116" weight="0.43815514" />
+      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32914045" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32967034" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Show more information in user profile - frontend&#10;&#10;Jira: MGMSPORTS-55" />
+    <MESSAGE value="Show more information in user profile - frontend&#10;&#10;Change-Id: Idbf876634c121a0908ecf5d762bf44296971c2ba&#10;Jira: MGMSPORTS-55" />
+    <MESSAGE value="change env" />
+    <MESSAGE value="change env&#10;&#10;Change-Id: I2dad186d2ff665fc1c98fbb6fb300835baaf4b2f" />
+    <MESSAGE value="change env again" />
+    <MESSAGE value="change domain to ip" />
+    <MESSAGE value="IOS Detector for duration&#10;&#10;Change-Id: Icc44255350e39cd75193ce441729c51297b5e91e" />
+    <option name="LAST_COMMIT_MESSAGE" value="IOS Detector for duration&#10;&#10;Change-Id: Icc44255350e39cd75193ce441729c51297b5e91e" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/containers/snackbar/SportSnackbar.tsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/TeamStatistics/teamStatistics.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="121" column="44" selection-start-line="121" selection-start-column="44" selection-end-line="121" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/TeamStatistics/ButtonCompareVer2.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/CardMedia/CardMedia.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/activity/list-card-activity.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="178" column="52" selection-start-line="178" selection-start-column="52" selection-end-line="178" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Profile/TimeInterval.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/recharts/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="46" column="41" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/es/styles/spacing.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/TeamStatistics/TimeInterval.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/AddTeam/AddTeamDialog.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-531" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/TeamActivities/TeamInformation/QRDialog.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/TeamActivities/TeamInformation/TeamDetails/TeamDetails.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/team/ListActivities/actionCreators.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/team/ListActivities/actions.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/team/JoinedTeamCard.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/TeamActivities/AddUserToTeam/SearchUserInTeam.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="128" column="47" selection-start-line="128" selection-start-column="47" selection-end-line="128" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.cache-loader/4ae371ef8428af5ab34121f3f6954ff8.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret column="4885" selection-start-column="4885" selection-end-column="4885" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.cache-loader/d44d571ee8a7ca4f68505209b1404c9b.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret column="2378" selection-start-column="2378" selection-end-column="2378" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/UserProfile/EditProfileForm.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="299" column="63" selection-start-line="299" selection-start-column="63" selection-end-line="299" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/TeamActivities/TeamInformation/ButtonAddUser.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/competition/MemberShortInfo.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/competition/ComparisonCriteria.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="57" column="73" lean-forward="true" selection-start-line="57" selection-start-column="73" selection-end-line="57" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/competition/CompetitionCard.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="221" column="86" lean-forward="true" selection-start-line="221" selection-start-column="58" selection-end-line="221" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/images/hiking.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/images/sendLogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/images/skating.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/images/running-app-bar.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/images/gym.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/Avatar/Avatar.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/images/liftingLogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/images/running-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Profile/Profile.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="26" column="45" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/user/UserProfile.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login/LoginForm.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="61" column="28" lean-forward="true" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login/SimpleLoginForm.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="66" lean-forward="true" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Profile/Statistic.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="119" column="23" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Profile/Statistic.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="248" column="35" selection-start-line="248" selection-start-column="35" selection-end-line="248" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/layouts/appbar/DrawAppBarStyle.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="64" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/images/running.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/images/runningLogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/activity/card-activity.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/activity/timer/Timer.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="n#!!block;n#constructor#0;n#Timer#0" expanded="true" />
+            <element signature="e#4043#4482#0" expanded="true" />
+            <element signature="e#4562#4703#0" expanded="true" />
+            <element signature="e#4745#4991#0" expanded="true" />
+            <element signature="e#5029#5382#0" expanded="true" />
+            <element signature="e#5439#5710#0" expanded="true" />
+            <element signature="e#5762#5897#0" expanded="true" />
+            <element signature="e#5952#6345#0" expanded="true" />
+            <element signature="e#6385#6499#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/TeamActivities/TeamInformation/TeamInformation.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="165" column="73" selection-start-line="165" selection-start-column="73" selection-end-line="165" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/UserProfile/UserProfile.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="79" column="48" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/images/runningTeam.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/images/save-run.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/images/run.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/images/cycling.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/images/climbing.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Profile/Profile.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="61" column="14" lean-forward="true" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
