@@ -5,8 +5,7 @@
   "main": "src/index.tsx",
   "scripts": {
     "dev": "webpack-serve config/webpack.config.dev.js",
-      "start":"node src/server.js",
-      "postinstall":"tsc"
+    "start": "node src/server.js"
   },
   "author": "htnguyen",
   "license": "UNLICENSED",
