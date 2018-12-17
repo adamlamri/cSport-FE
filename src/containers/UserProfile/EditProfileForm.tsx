@@ -88,6 +88,7 @@ const styles: StyleRules = {
         display: "block",
         marginLeft: "auto",
         marginRight: "auto",
+        objectFit: "cover",
     },
     avatar: {
         height: 250,
@@ -95,6 +96,7 @@ const styles: StyleRules = {
         borderStyle: "solid",
         borderColor: "#3f51b5",
         borderRadius: "50%",
+        objectFit: "cover",
     },
     editAvatar: {
         zIndex: 1,

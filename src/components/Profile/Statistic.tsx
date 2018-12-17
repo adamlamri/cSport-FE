@@ -109,15 +109,6 @@ class Statistic extends React.Component<StatisticProps, StatisticState> {
         if (this.state.statistic == null || this.state.graphicalStatistic == null) {
             return <div />;
         }
-        console.log(
-            this.state.graphicalStatistic.filter(
-                graphic =>
-                    graphic.active &&
-                    (graphic.activityTypeName === "Running" ||
-                        graphic.activityTypeName === "Cycling" ||
-                        graphic.activityTypeName === "Climbing"),
-            ),
-        );
         const chartKmPH = this.state.graphicalStatistic
             .filter(
                 graphic =>

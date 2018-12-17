@@ -51,7 +51,7 @@ class Message extends React.Component<MessageProps, MessageState> {
                                 : "row",
                     }}
                 >
-                    <Grid item xs={2}>
+                    <Grid item xs={2} style={{ maxWidth: "50px" }}>
                         <img src={this.props.message.imageLink} alt="Avatar" />
                     </Grid>
                     <Grid
